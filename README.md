@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YLih6N5NUsiROA5-RERWgEKNwTzUvNfu/view?usp=sharing](https://drive.google.com/file/d/1YLih6N5NUsiROA5-RERWgEKNwTzUvNfu/view?usp=sharing)
 
-- ⚡ Fun fact **They are telling data is oil but really data is a renewable source**
+- ⚡ Fun fact **people are telling data is oil but really data is a renewable source**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
