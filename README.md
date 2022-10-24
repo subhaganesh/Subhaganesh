@@ -1,3 +1,4 @@
+[![MasterHead](https://www.altair.com/images/default-source/content-images/data_analytics_header_interior_desktop-jpg.jpg?sfvrsn=e65553ec_0)]
 <h1 align="center">Hi 👋, I'm Subhaganesh</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 <img align="right" alt="Coding" width="500" src="https://aryng.com/assets/img/ani3.gif">
