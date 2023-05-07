@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **web scraping**
 
-- 🌱 I’m currently learning **bs4, selenium,spyder ,web scraping**
+- 🌱 I’m currently learning **bs4, selenium,spyder**
 
 - 💬 Ask me about **web scraping**
 
