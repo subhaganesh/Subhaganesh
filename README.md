@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Business Insight 360**
+- 🔭 I’m currently working on **web scraping**
 
-- 🌱 I’m currently learning **Power BI , Data Analysis**
+- 🌱 I’m currently learning **bs4, selenium,spyder ,web scraping**
 
-- 💬 Ask me about **Power BI**
+- 💬 Ask me about **web scraping**
 
 - 📫 How to reach me **subhaganesh5@outlook.com**
 
