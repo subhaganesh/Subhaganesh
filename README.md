@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Deep Learning With Tensorflow**
 
-- 💬 Ask me about **web scraping**
+- 💬 Ask me about **Neural Networks**
 
 - 📫 How to reach me **subhaganesh5@outlook.com**
 
