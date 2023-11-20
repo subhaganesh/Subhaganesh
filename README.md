@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Tensorflow developer certification**
 
-- 🌱 I’m currently learning **deep learning**
+- 🌱 I’m currently learning **Deep Learning With Tensorflow**
 
 - 💬 Ask me about **web scraping**
 
