@@ -12,11 +12,12 @@
 
 - 🌱 I’m currently learning **Deep Learning With Tensorflow**
 
-- 💬 Ask me about **Neural Networks**
+- 💬 Ask me about **Natural language processing**
 
 - 📫 How to reach me **subhaganesh5@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YLih6N5NUsiROA5-RERWgEKNwTzUvNfu/view?usp=sharing](https://drive.google.com/file/d/1YLih6N5NUsiROA5-RERWgEKNwTzUvNfu/view?usp=sharing)
+- 📄 Know about my experiences 
+[https://drive.google.com/file/d/1sv7uKoAFzeczi1GT6m83I-vwm9oym9lL/view?usp=drivesdk](https://drive.google.com/file/d/1sv7uKoAFzeczi1GT6m83I-vwm9oym9lL/view?usp=drivesdk)
 
 - ⚡ Fun fact **people are telling data is oil but really data is a renewable source**
 
