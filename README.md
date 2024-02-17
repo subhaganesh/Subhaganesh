@@ -16,8 +16,8 @@
 
 - 📫 How to reach me **subhaganesh5@outlook.com**
 
-- 📄 Know about my experiences 
-[https://drive.google.com/file/d/1sv7uKoAFzeczi1GT6m83I-vwm9oym9lL/view?usp=drivesdk]
+- 📄 Know about my experience
+[view my resume](https://drive.google.com/file/d/1sv7uKoAFzeczi1GT6m83I-vwm9oym9lL/view?usp=drivesdk)
 
 - ⚡ Fun fact **people are telling data is oil but really data is a renewable source**
 
